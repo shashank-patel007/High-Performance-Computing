@@ -1,0 +1,8 @@
+In 0.000417 seconds we found 4 primes less than or equal to 10.
+In 0.000729 seconds we found 25 primes less than or equal to 100.
+In 0.000963 seconds we found 168 primes less than or equal to 1000.
+In 0.001146 seconds we found 1229 primes less than or equal to 10000.
+In 0.002104 seconds we found 9592 primes less than or equal to 100000.
+In 0.033883 seconds we found 78498 primes less than or equal to 1000000.
+In 0.073756 seconds we found 664579 primes less than or equal to 10000000.
+In 1.264417 seconds we found 5761455 primes less than or equal to 100000000.
